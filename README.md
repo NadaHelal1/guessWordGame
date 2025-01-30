@@ -1,1 +1,2 @@
 # guessWordGame
+In this word guessing game, user will be given a randomly generated 6-letter word from a user provided file. The player must then continue to guess the whole word or a letter at a time until the player guesses the correct word or give him assist , the game has 3 hint can give them for the player to help him to guess the right word. Player can quit at any time. Each letter in the English language. the score from each round will be displayed, along with the original word, the status of the game (correct guess or not), the number of guesses required.
